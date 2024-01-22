@@ -1,4 +1,4 @@
-This set of projects was carried out with the aim of validating the “Machine Learning” block of the RNCP “Designer-Developer in data science” level 7 certification.
+This set of projects was carried out with the aim of validating the “Machine Learning” block of the RNCP “Designer-Developer in data science” level 6 certification.
 
 This folder contains three distinct machine learning projects. 
 The first one involves predicting the sales of various Walmart stores using a supervised machine learning model, based on store-specific data such as regional unemployment rate, gas price during the considered period, outdoor temperature, and more. 
